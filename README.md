@@ -1,7 +1,9 @@
 # Marvin Kaggwe Victor
-**Software Engineer | Payments & Automation | Web & Systems**
+**Well-rounded Software Engineer & Indie Hacker | Web • Desktop • Mobile | Payments, Automation & Business Systems**
 
-I build practical payment automations and business systems—especially where official APIs are limited—by combining **SMS-based events**, **workflow automation**, and **deployable dashboards**.
+I build end-to-end products—**web apps**, **desktop tools**, and **mobile experiences**—with a focus on practical systems that hold up in real business environments.
+
+I’m especially strong at taking messy real-world workflows (including **mobile-money/SMS-based payment events when APIs are limited**) and turning them into **clean data models**, **reliable automation**, and **deployable dashboards**.
 
 ---
 
@@ -13,16 +15,25 @@ I build practical payment automations and business systems—especially where of
 ---
 
 ## Core Strengths
-### Payments & Automation (Specialty)
-- SMS-based payment confirmations (MTN MoMo / Airtel Money workflows)
-- Event parsing → structured payment events → dashboards/reports
-- Reconciliation support (exports, logs, tracking, audit-friendly data)
-- Workflow automation using mobile + server tools
+### Product Delivery (Web / Desktop / Mobile)
+- End-to-end systems: build → ship → maintain
+- System design: schema design, domain modeling, and data integrity
+- Planning: project scoping, milestones, and delivery-focused execution
 
 ### Web Applications
 - Authentication & role-based access control
 - Dashboards, admin panels, CRUD, audit trails
 - Mobile-first UI and server-rendered apps
+
+### Desktop / Automation
+- Desktop tooling and utilities (monitoring, logging, integrations)
+- Workflow automation using mobile + server tools
+- Data pipelines: parsing → normalization → exports/reports
+
+### Payments & Automation (Specialty)
+- SMS-based payment confirmations (MTN MoMo / Airtel Money workflows)
+- Event parsing → structured payment events → dashboards/reports
+- Reconciliation support (exports, logs, tracking, audit-friendly data)
 
 ### Systems / DevOps / Deployment
 - Docker, GitHub Actions, VPS administration
@@ -111,6 +122,8 @@ Mobile-first booking app with rooms, services, and manual MoMo/Airtel payment co
 ---
 
 ## What I Can Help You Build
+- Full-stack products (web + desktop tooling + mobile apps)
+- Data modeling & schema design for business systems
 - Payment tracking dashboards (even with limited official APIs)
 - SMS → event pipelines → reports/reconciliation
 - Internal business tools (admin panels, audit logs, role-based workflows)
