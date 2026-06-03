@@ -6,8 +6,8 @@ I build practical payment automations and business systems—especially where of
 ---
 
 ## Google XYZ Summary (What I do)
-- **Accomplished reliable mobile-money payment event tracking** as measured by **structured, queryable payment records** by **parsing merchant-payment SMS and converting them into normalized events.**
-- **Accomplished faster operations and fewer manual steps** as measured by **reduced repetitive work** by **automating routing, parsing, notifications, and business logic with LlamaLab Automate flows.**
+- **Accomplished reliable mobile-money payment event tracking** as measured by **structured, queryable payment records** by **parsing merchant-payment SMS and converting them into normalized events[...]
+- **Accomplished faster operations and fewer manual steps** as measured by **reduced repetitive work** by **automating routing, parsing, notifications, and business logic with LlamaLab Automate fl[...]
 - **Accomplished deployable client-ready systems** as measured by **successful on-site/VPS deployments** by **building lightweight dashboards and integration hubs using modern web stacks.**
 
 ---
@@ -55,7 +55,7 @@ I build practical payment automations and business systems—especially where of
 
 ### Mobile Money Workaround (SMS-based merchant payments)
 - **Accomplished payment tracking without official APIs** as measured by **consistent transaction event records** by **reading merchant-payment SMS and converting them into structured events.**
-- **Accomplished flexible business workflows** as measured by **multiple supported use-cases (voucher sales, tracking, reporting)** by **combining Automate flows with a deployable server dashboard.**
+- **Accomplished flexible business workflows** as measured by **multiple supported use-cases (voucher sales, tracking, reporting)** by **combining Automate flows with a deployable server dashboard[...]
 
 **Use cases**
 - Voucher sales using Automate-only flows
@@ -94,8 +94,19 @@ Mobile-first booking app with rooms, services, and manual MoMo/Airtel payment co
 ### Django E-Store
 - **Accomplished a functional e-commerce flow** as measured by **auth, product listing, cart/checkout pages** by **building with Django 4.2 using templates/static/media.**
 
+**Notes**
+- MVC-style structure; missing `requirements.txt` (at the time).
+- Needs `Pillow` installed for image handling.
+
+**Repo:** https://github.com/kaggwe-marvin/django-Estore
+
 ### SACCO-py
 - **Accomplished a modular SACCO foundation** as measured by **separated concerns across apps and reusable workflows** by **structuring the system using Django MVT with templates + static assets.**
+
+**Notes**
+- MVC/MVT design pattern.
+
+**Repo:** https://github.com/kaggwe-marvin/SACCO-py
 
 ---
 
