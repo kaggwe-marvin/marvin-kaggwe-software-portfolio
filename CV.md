@@ -1,5 +1,5 @@
 # KAGGWE MARVIN VICTOR
-**Backend Software Developer · CD**  
+**Software Engineer | Payments & Automation | Web & Systems**  
 Kampala, Uganda | 0788 320 104 | kiwanukamarvin597@gmail.com | github.com/kaggwe-marvin
 
 ## PROFILE
