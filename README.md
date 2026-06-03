@@ -1,9 +1,9 @@
 # Marvin Kaggwe Victor
-**Well-rounded Software Engineer & Indie Hacker | Web • Desktop • Mobile | Payments, Automation & Business Systems**
+**Software Engineer | Web • Desktop • Mobile | Full-stack products, automation, and data modeling**
 
-I build end-to-end products—**web apps**, **desktop tools**, and **mobile experiences**—with a focus on practical systems that hold up in real business environments.
+I build practical, end-to-end systems—from web apps and desktop tooling to mobile experiences—with strong emphasis on clean schemas, reliability, and real business workflows.
 
-I’m especially strong at taking messy real-world workflows (including **mobile-money/SMS-based payment events when APIs are limited**) and turning them into **clean data models**, **reliable automation**, and **deployable dashboards**.
+Beyond software delivery, I also work in hands-on IT: PC repair/refurbishment, OS/software installation, and I’m currently training toward a SAP Database Administration certification.
 
 ---
 
